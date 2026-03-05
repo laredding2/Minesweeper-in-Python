@@ -53,7 +53,7 @@ git clone https://github.com/laredding2/minesweeper.git
 cd minesweeper
 python minesweeper.py
 ```
-
+- You can also play this game on my website! https://laredding2.github.io/minesweeper.html
 ---
 
 ## How to Play
