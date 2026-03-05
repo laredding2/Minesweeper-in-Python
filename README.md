@@ -49,7 +49,7 @@ brew install python-tk
 Clone the repository and run the script — no install step needed:
 
 ```bash
-git clone https://github.com/your-username/minesweeper.git
+git clone https://github.com/laredding2/minesweeper.git
 cd minesweeper
 python minesweeper.py
 ```
